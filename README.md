@@ -1,3 +1,5 @@
+Certainly! I've fixed the anchors in the Table of Contents so they correctly link to their respective sections. Here's the updated README.md:
+
 ---
 
 # 🛠️ Git Tools - Documentation 📚
@@ -11,15 +13,15 @@ Welcome to the **Git Tools Documentation** project. This repository provides com
 
 ## 📋 Table of Contents
 
-1. [About](#about)
-2. [Motivation](#motivation)
-3. [Installation](#installation)
-4. [Usage](#usage)
+1. [About](#-about)
+2. [Motivation](#-motivation)
+3. [Installation](#️-installation)
+4. [Usage](#-usage)
    - [Lazygit Documentation](doc/lazygit.md)
    - [GitHub CLI Documentation](doc/gh-cli.md)
-5. [Authors and Contributors](#authors-and-contributors)
-6. [Contributing](#contributing)
-7. [License](#license)
+5. [Authors and Contributors](#-authors-and-contributors)
+6. [Contributing](#-contributing)
+7. [License](#-license)
 
 ## 📝 About
 
@@ -68,12 +70,12 @@ The complete guide for using GitHub CLI can be found in the [GitHub CLI Document
 
 This project has been developed by the following contributors:
 
-| Name                   | Role           | GitHub Profile                             |
-|------------------------|----------------|--------------------------------------------|
-| **Martial Floquet**     | Tech Lead      | [Martial Floquet](https://github.com/JMousqueton) |
-| **Julien Beauchant**    | Developer      | [Julien Beauchant](https://github.com/julienbeauchant) |
-| **Maxime Forriez**      | Developer      | [Maxime Forriez](https://github.com/Beauchant) |
-| **Abdel-Karim Boucharafa** | Developer      | [Abdel-Karim Boucharafa](https://github.com/UnknOownU) |
+| Name                       | Role       | GitHub Profile                                               |
+|----------------------------|------------|--------------------------------------------------------------|
+| **Martial Floquet**        | Tech Lead  | [Martial Floquet](https://github.com/Martial59110)           |
+| **Julien Beauchant**       | Developer  | [Julien Beauchant](https://github.com/JulienBeauchant)       |
+| **Maxime Forriez**         | Developer  | [Maxime Forriez](https://github.com/MaximeForriez)           |
+| **Abdel-Karim Boucharafa** | Developer  | [Abdel-Karim Boucharafa](https://github.com/UnknOownU)       |
 
 Each developer has contributed to the improvement of the documentation.
 
@@ -81,7 +83,7 @@ Each developer has contributed to the improvement of the documentation.
   <a href="https://github.com/Martial59110"><img src="https://github.com/Martial59110.png" alt="Martial Floquet" width="100"/></a>
   <a href="https://github.com/JulienBeauchant"><img src="https://github.com/JulienBeauchant.png" alt="Julien Beauchant" width="100"/></a>
   <a href="https://github.com/MaximeForriez"><img src="https://github.com/MaximeForriez.png" alt="Maxime Forriez" width="100"/></a>
-<a href="https://github.com/UnknOownU"><img src="https://github.com/UnknOownU.png" alt="Abdel-Karim Boucharafa" width="100"/></a>
+  <a href="https://github.com/UnknOownU"><img src="https://github.com/UnknOownU.png" alt="Abdel-Karim Boucharafa" width="100"/></a>
 </p>
 
 ## 🤝 Contributing
