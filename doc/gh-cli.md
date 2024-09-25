@@ -7,25 +7,25 @@ Voici un guide complet pour l'installer et utiliser ses différentes commandes.
 
 ## 📚 Sommaire
 
-1. [Installation de GitHub CLI](#installation-de-github-cli)  
+1. [Installation de GitHub CLI](#1-installation-de-github-cli)  
    - [Sur Linux/macOS (via Homebrew)](#sur-linuxmacos-via-homebrew)  
    - [Sur Ubuntu/Debian (via apt)](#sur-ubuntudebian-via-apt)  
    - [Sur Windows](#sur-windows)  
 
-2. [Authentification](#authentification)  
+2. [Authentification](#2-authentification)  
 
-3. [Commandes GitHub CLI Principales](#commandes-github-cli-principales)  
+3. [Commandes GitHub CLI Principales](#3-commandes-github-cli-principales)  
    - [Gestion des Dépôts](#gestion-des-dépôts)  
    - [Gestion des Issues](#gestion-des-issues)  
    - [Gestion des Pull Requests](#gestion-des-pull-requests)
 
-4. [Gestion des Workflows CI/CD](#gestion-des-workflows-cicd)  
+4. [Gestion des Workflows CI/CD](#4-gestion-des-workflows-cicd)  
 
-5. [Autres Commandes Utiles](#autres-commandes-utiles)  
+5. [Autres Commandes Utiles](#5-autres-commandes-utiles)  
 
-6. [Alias](#alias)  
+6. [Alias](#6-alias)  
 
-7. [Commandes Personnalisées](#commandes-personnalisées)
+7. [Commandes Personnalisées](#7-commandes-personnalisées)
 
 
 ## 1. **Installation de GitHub CLI**
