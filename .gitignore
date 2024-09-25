@@ -1,1 +1,32 @@
+# Ignorer les fichiers .DS_Store
+.DS_Store
 
+# Ignorer les fichiers de quaratine
+.AppleDouble
+.LSOverride
+
+# Ignorer les fichiers d'icônes de serveur
+Icon
+
+# Ignorer les fichiers "se resource"
+._*
+
+# Ignorer les fichiers générés par Spotlight
+.metadata_never_index
+
+# Ignorer les fichiers générés par le système de fichiers
+.VolumeIcon.icns
+
+# Ignorer les fichiers Thumbs.db sur Windows
+Thumbs.db
+
+# Ignorer les fichiers temporaires d'éditeur (exemple pour vim, etc.)
+*~
+
+# Ignorer les fichiers log de Mac
+logs/
+*.log
+
+# Ignorer les fichiers temporaires de sauvegarde d'éditeur
+*.swp
+*.swo
