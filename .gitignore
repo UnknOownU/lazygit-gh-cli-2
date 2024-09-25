@@ -1,5 +1,6 @@
 # Ignorer les fichiers .DS_Store
 .DS_Store
+doc/.DS_Store
 
 # Ignorer les fichiers de quaratine
 .AppleDouble
