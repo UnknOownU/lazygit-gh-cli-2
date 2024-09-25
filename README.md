@@ -1,5 +1,3 @@
-Certainly! I've fixed the anchors in the Table of Contents so they correctly link to their respective sections. Here's the updated README.md:
-
 ---
 
 # 🛠️ Git Tools - Documentation 📚
